@@ -38,7 +38,7 @@ Geoffrey K. Vallis (2006): *Atmospheric and Oceanic Fluid Dynamics*, Cambridge U
 - Jonathan E. Martin (2006): *Mid-Latitude Atmospheric Dynamics: a first course*, John Wiley and Sons.
 
 ### Homework policy
-There will be about 6 or 7 homework assignments throughout the semester. Homework will be due **at the beginning of class** on the stated due date, usually 1 week after it is handed out. LATE HOMEWORK will incur a penalty of 15% per day. Exception: each student is granted ONE freebee late day to be used on one assignment of their choice. For these purposes “days” are defined as 24 hour periods after the due date and time, which is 10:15 am. Late assignments will not be accepted after solutions have been discussed in class.
+There will be quasi-weekly homework assignments throughout the semester (about 10 total). Homework will be due **at the beginning of class** on the stated due date, usually 1 week after it is handed out. LATE HOMEWORK will incur a penalty of 15% per day. Exception: each student is granted ONE freebee late day to be used on one assignment of their choice. For these purposes “days” are defined as 24 hour periods after the due date and time, which is 10:15 am. Late assignments will not be accepted after solutions have been discussed in class.
 
 
 ### Academic integrity
