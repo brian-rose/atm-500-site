@@ -6,29 +6,37 @@ permalink: /syllabus/
 # A ATM 500 Atmospheric Dynamics
 ## Syllabus, Fall 2015
 
+### Course number: 10425  (3 credits)
+
 ### Meets Tuesday, Thursday 10:15 - 11:35 AM in ES 328
 ### Instructor: Brian Rose
 - **Email**: <brose@albany.edu>
 - **Office**: ES 315
-- **Office hours**: Monday, Wednesday 3 - 4 PM
+- **Office hours**: Monday 1 - 2 PM, Wednesday 10 - 11 AM (or by appointment)
 
 ### Teaching assistant: Hannah Attard
 - **Email**: <hattard@albany.edu>
 - **Office**: ES 325
-- **Office hours**: TBD
+- **Office hours**: Drop-in homework and review sessions, Tuesday 4:15 - 5:15 PM in ES 223
 
 ### Course website:
 <http://www.atmos.albany.edu/facstaff/brose/classes/ATM500_Fall2015/>
 
 From the bulletin: *Fundamentals of geophysical fluid dynamics necessary to understand atmospheric motions; conservation laws, fundamental forces, rotational effects, scaling of the equations of motion, concept of balance, circulation, vorticity and divergence.*
 
-A more verbose course description:
-
 ### Grading and course requirements
 
+- Homework: 40%
+- Midterm exam: 20%
+- Final exam: 40%
+
+This course will consist of classroom lectures (with occasional demonstrations), assigned reading, and regular homework assignments. All three components are necessary for building an understanding of this fascinating but complex subject. 
 
 ### Textbook (required):
 Geoffrey K. Vallis (2006): *Atmospheric and Oceanic Fluid Dynamics*, Cambridge University Press.
+
+We will follow this text closely, and all students will need to follow the regular reading assignments. One copy of the book will be on reserve at the Science Library. The accompanying website has errata and electronic versions of all figures:
+<http://www.vallisbook.org>  
 
 ### Other useful books:
 - Holton and Hakim (2013): *An Introduction to Dynamic Meteorology (5th ed.)*, Elsevier Academic Press.
